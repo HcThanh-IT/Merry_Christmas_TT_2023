@@ -199,7 +199,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas 2023 >>>",
-                        "Chúc chị Tâm có một ngày giáng sinh an lành ấm áp bên người thân và bạn bè nè. Mãi iuuu 🎄🎄🎄",
+                        "Chúc chị Thanh Tâm có một ngày giáng sinh an lành ấm áp bên người thân và bạn bè nè. Mãi iuuu 🎄🎄🎄",
                         ],
                         typeSpeed: 50,
                         startDelay: 500,
